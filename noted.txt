@@ -1,0 +1,13 @@
+-	Resting blood pressure: refers to the measurement of blood pressure when the body is at rest, typically measured after the individual has been sitting or lying down for a few minutes.
+-	Serum cholesterol: refers to the level of cholesterol present in the serum (the liquid component of blood) and is commonly measured as part of routine blood tests.
+-	Fasting blood sugar: refers to the level of glucose in the blood after an extended period of fasting, typically overnight.
+-	Resting electrocardiogram (resting ecg): a diagnostic test that records the electrical activity of the heart while the patient is at rest.
+-	Maximum heart rate achieved: the highest heart rate a person can achieve during physical exertion and is an important parameter in various health and fitness assessments.
+-	Exercise induced angina: refers to chest pain or discomfort that occurs during physical activity or exercise due to reduced blood flow to the heart muscle.
+-	Oldpeak: refers to the ST depression induced by exercise relative to rest. ST depression is a common indicator of myocardial ischemia during exercise testing. 
+-	The slope of the peak exercise ST segment: refers to the shape or gradient of the ST segment during peak exercise in an electrocardiogram (ECG) analysis. This measurement is important in assessing cardiac function and detecting abnormalities during exercise stress testing.
+
+#####	ST:
++	In the context of electrocardiography (ECG or EKG), "ST" refers to the ST segment, which is a portion of the ECG waveform. The ST segment represents the period between ventricular depolarization (end of the QRS complex) and ventricular repolarization (beginning of the T wave).
+
++	The ST segment is typically isoelectric, meaning it should be at the same baseline level as the TP segment (the portion of the ECG between the end of the T wave and the beginning of the next P wave). Deviations from the baseline level of the ST segment can indicate various cardiac abnormalities, including myocardial ischemia, injury, or infarction.
